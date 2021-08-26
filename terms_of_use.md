@@ -1,94 +1,26 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2580
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Arial-BoldMT;\f1\fswiss\fcharset0 ArialMT;\f2\fswiss\fcharset0 Arial-ItalicMT;
-}
-{\colortbl;\red255\green255\blue255;\red1\green32\blue111;\red255\green255\blue255;\red17\green17\blue17;
-\red0\green0\blue0;\red209\green235\blue43;}
-{\*\expandedcolortbl;;\cssrgb\c0\c18824\c50980;\cssrgb\c100000\c100000\c100000;\cssrgb\c8235\c8235\c8235;
-\cssrgb\c0\c0\c0;\cssrgb\c85094\c92281\c21583;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
-\margl1440\margr1440\vieww22800\viewh15640\viewkind0
-\deftab720
-\pard\pardeftab720\sl576\sa300\partightenfactor0
+# Alexa® Skill Terms of Use
 
-\f0\b\fs48 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Alexa
-\fs28\fsmilli14400 \AppleTypeServices\AppleTypeServicesF65539 \'ae
-\fs48 \AppleTypeServices\AppleTypeServicesF65539 \'a0Skill Terms of Use
-\f1\b0\fs32 \AppleTypeServices \cf4 \strokec4 \
-\pard\pardeftab720\sa256\partightenfactor0
-\cf4 Please read these terms and conditions carefully. By Using this Alexa Skill application (the "
-\f0\b App
-\f1\b0 ") you are indicating that you have read, acknowledge and agree to be bound by these Terms of Use (the "
-\f0\b Terms
-\f1\b0 "). If you do not agree to be bound by the Terms, you may not Use the App. MovieReco reserves the right, at its reasonable discretion, to modify these Terms at any time, without notice to you. Your continued use of the App after any such modifications constitutes your acceptance of the new Terms and agreement to abide by them. You should review these Terms regularly to stay informed of any changes that may affect you.\
-\pard\pardeftab720\sa256\partightenfactor0
+Please read these terms and conditions carefully. By Using this Alexa Skill application (the "App") you are indicating that you have read, acknowledge and agree to be bound by these Terms of Use (the "Terms"). If you do not agree to be bound by the Terms, you may not Use the App. MovieReco reserves the right, at its reasonable discretion, to modify these Terms at any time, without notice to you. Your continued use of the App after any such modifications constitutes your acceptance of the new Terms and agreement to abide by them. You should review these Terms regularly to stay informed of any changes that may affect you.
+If you downloaded the App from the Alexa Skills Store: These Terms incorporate by reference Alexa’s Licensed Application End User Agreement (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), for purposes of which you are the "end user".
 
-\f2\i \cf4 If you downloaded the App from the Alexa Skills Store
-\f1\i0 : These Terms incorporate by reference Alexa\'92s Licensed Application End User Agreement (
-\f0\b https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-\f1\b0 ), for purposes of which you are the "end user".\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa256\partightenfactor0
-\ls1\ilvl0
-\f0\b \cf4 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 General Information
-\f1\b0 \cb1 \uc0\u8232 \cb3 This App is developed and maintained by MovieReco. Use of this App is governed by the MovieReco Privacy Policy (the "
-\f0\b Privacy Policy
-\f1\b0 ") (a copy of which is available, at\'a0
-\f0\b \cf5 \cb6 http://www.ets.org/legal/privacy/
-\f1\b0 \cf4 \cb3 ) and these Terms of Use (collectively, these "
-\f0\b Terms
-\f1\b0 "). These Terms apply to: (a) any person who Uses (as defined below) this App (referred to as "
-\f0\b you
-\f1\b0 ", "
-\f0\b your
-\f1\b0 ", and "
-\f0\b user
-\f1\b0 "); and (b) to the maximum extent possible under applicable law, any information, content, metadata, data, and material, including any voice recordings, submitted by you or arising from or related to your Use (as defined below) of the App ("
-\f0\b Usage Data
-\f1\b0 ").\cb1 \uc0\u8232 \
-\ls1\ilvl0
-\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 Accepting the Terms
-\f1\b0 \cb1 \uc0\u8232 \cb3 By downloading, accessing, viewing, installing, running or using (collectively, "
-\f0\b Using
-\f1\b0 " or "
-\f0\b Use
-\f1\b0 ") the App, you represent and warrant that you have read and understand these Terms. You also represent and warrant that you are age 18 or over and either (a) you are using the App yourself, or (b) you are using this App with a child under 18 in order to help the child learn, and you have the full power, capacity, and authority to accept these Terms and authorize the child's use of the App. You further accept and agree to comply with the terms of use of any third-party software or application licensor accessible through this App.\cb1 \uc0\u8232 \cb3 You may not Use the App if you (or your parent or teacher, if you are under age 18) do not agree to be bound by these Terms or if you are otherwise prohibited from Using the App under any applicable laws, statutes, ordinances, or regulations.\cb1 \uc0\u8232 \cb3 You must have access to the internet, certain necessary software, and, if applicable, compatible mobile devices in order to Use the App. Fees and charges may apply to your use of the internet and, if applicable, the mobile services. You agree that you are solely responsible for any such fees.\cb1 \uc0\u8232 \
-\ls1\ilvl0
-\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 Usage Data
-\f1\b0 \cb1 \uc0\u8232 \cb3 You acknowledge and agree that MovieReco will collect and use the Usage Data as needed to provide the App to you and for other purposes as described in these Terms.\cb1 \uc0\u8232 \cb3 If you register to use the App, you may provide Personal Information (as defined in the Privacy Policy) to MovieReco (or to MovieReco\'92s third-party service providers). MovieReco will handle all Personal Information obtained during registration in accordance with the Privacy Policy.\cb1 \uc0\u8232 \cb3 MovieReco does not require Users to provide any Personal Information when they use the App. When you use the App, MovieReco collects Usage Data that does not contain any individual identifiers, including information about your engagement with the App, voice recordings of passages read, and survey data (collectively, "Research Data.") MovieReco will not (and will not permit any third party to) associate your identifiers or other Personal Information with the Research Data. MovieReco may modify Usage Data to remove any Personal Information or other information that may be used to identify you or any other individual in order to create additional Research Data.\cb1 \uc0\u8232 \cb3 You authorize MovieReco to use the Research Data for any lawful purpose, and you disclaim all rights or interests in the Research Data by or through these Terms. You acknowledge that MovieReco may use, modify, incorporate or otherwise exploit your Research Data in any media whatsoever, now known or later invented, throughout the world for the purposes of conducting research or analyses, including designing, developing, implementing, modifying and/or improving new, current, or future features, products, and services of MovieReco. You hereby disclaim any right to any compensation from MovieReco in connection with MovieReco\'92s exercise of its rights in and to the Research Data.\cb1 \uc0\u8232 \
-\ls1\ilvl0
-\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 	4.   \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 License Grant
-\f1\b0 \cb1 \uc0\u8232 \cb3 Subject to these Terms, MovieReco grants to you a worldwide, nonexclusive, non-transferable, non-sublicensable license to Use the App, including any all patches, updates, or upgrades or improvements provided by MovieReco from time to time, solely for your (and your students' or child's) personal and noncommercial use.\cb1 \uc0\u8232 \
-\ls1\ilvl0
-\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 Restriction on Use
-\f1\b0 \cb1 \uc0\u8232 \cb3 You may not modify the App in any way or remove any copyright, trademark and other proprietary notices therefrom. Except as provided by the license set forth in Section 5, you may not otherwise copy, store (either in hard copy or in electronic format), transmit, transfer, perform, broadcast, publish, reproduce, create a derivative work from, display, distribute, sell, offer for sale, license, rent, lease, or otherwise exploit the App in any manner inconsistent with the rights of MovieReco, including, but not limited to, the Use of the App for any purpose, without the express written permission of MovieReco. You may not Use this App in violation of any applicable terms of use related to third-party software or applications accessible through this App.\cb1 \uc0\u8232 \
-\ls1\ilvl0
-\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 Ownership
-\f1\b0 \cb1 \uc0\u8232 \cb3 Any Usage Data, the App and any content included in the App or results produced by Use of the App, including, but not limited to, voice recordings, text, names, data, graphics, logos, icons, images, code, methods, techniques, models and software, and all copies, modifications, enhancements and derivative works thereof, are the sole and exclusive property of MovieReco or its licensors/providers and are protected by the patent, copyright, trademark and trade secret laws of the United States.\cb1 \uc0\u8232 \
-\ls1\ilvl0
-\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 Termination
-\f1\b0 \cb1 \uc0\u8232 \cb3 MovieReco may terminate these Terms and/or terminate, change, suspend or discontinue any aspect of the App, including the availability of any features or functionalities of the App at any time, for any reason, without liability or notice to you.\cb1 \uc0\u8232 \cb3 You may terminate your Use of the App by uninstalling the App.\cb1 \uc0\u8232 \cb3 Sections 1 (General Information), 2 (Accepting the Terms), 3 (Usage Data) , 6 (Ownership), 8 (No Warranties or Liability), 9 (Export and Import) and 10 (Governing Law and Jurisdiction) will survive termination of these Terms.\cb1 \uc0\u8232 \
-\ls1\ilvl0
-\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 No Warranties or Liability
-\f1\b0 \cb1 \uc0\u8232 \cb3 THE APP AND ITS CONTENT, FEATURES AND FUNCTIONALITY ARE PROVIDED TO YOU ON AN "AS IS," "AS AVAILABLE" BASIS. MOVIERECO, ITS LICENSORS/PROVIDERS AND THEIR RESPECTIVE AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS MAKE NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO THE APP, ITS CONTENT, FEATURES AND FUNCTIONALITY AND ASSUME NO RESPONSIBILITY FOR THE CONSEQUENCES OF ANY ERRORS OR OMISSIONS IN CONNECTION WITH YOUR USE OF THE APP.\cb1 \uc0\u8232 \cb3 MOVIERECO, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, REPRESENTATIONS AND WARRANTIES REGARDING ACCURACY, TIMELINESS, COMPLETENESS, NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR ANY IMPLIED WARRANTY ARISING FROM COURSE OF PERFORMANCE, COURSE OF DEALING, OR USAGE OF TRADE.\cb1 \uc0\u8232 \cb3 WITHOUT LIMITATION TO THE FOREGOING, MOVIERECO DOES NOT WARRANT THAT THE OPERATION OF THE APP WILL BE ERROR FREE OR UNINTERRUPTED OR BE PROVIDED OR AVAILABLE WITHOUT INTERRUPTION, OR THAT DEFECTS OR ERRORS CAN OR WILL BE CORRECTED OR THE APPROPRIATENESS OF THE APP FOR ANY PARTICULAR SYSTEM OR ACCURACY OF THE APP'S CONTENT OR RESULTS OR THAT THE USE OF THE APP WILL NOT CAUSE DAMAGE TO YOUR MOBILE PHONE AND/OR COMPUTER (AS APPLICABLE), INTERFERE WITH THE USE OF YOUR MOBILE PHONE AND/OR COMPUTER (AS APPLICABLE), OR CAUSE LOSS OF USAGE DATA OR OTHER DATA FROM YOUR MOBILE PHONE AND/OR COMPUTER (AS APPLICABLE).\cb1 \uc0\u8232 \cb3 IN NO EVENT SHALL MOVIERECO BE LIABLE TO YOU FOR ANY CLAIM, INCLUDING, BUT NOT LIMITED TO, ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES OR LOSS OF ANY KIND INCLUDING LOSS OF PROFITS, LOSS OF CONTRACTS, BUSINESS INTERRUPTIONS, OR LOSS OF OR CORRUPTION OF DATA, HOWEVER CAUSED AND WHETHER ARISING UNDER CONTRACT OR TORT OR OTHERWISE, INCLUDING NEGLIGENCE, AND ANY LOSS OR DAMAGE RELATED TO ANY THIRD-PARTY SOFTWARE, THAT ARISES OUT OF OR RELATES TO YOUR USE OF THIS APP, ITS CONTENT, FEATURES AND FUNCTIONALITY.\cb1 \uc0\u8232 \
-\ls1\ilvl0
-\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 Export and Import
-\f1\b0 \cb1 \uc0\u8232 \cb3 The App is provided solely for lawful purposes and use. You are solely responsible for, and agree to comply with, all applicable laws, statutes, ordinances, regulations and other governmental authority, however designated, with respect to the Use of the App, including without limitation United States government laws, regulations, orders or other restrictions regarding export from the United States of software, technical data and information or derivatives of such software, or technical data and information.\cb1 \uc0\u8232 \
-\ls1\ilvl0
-\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 Governing Law and Jurisdiction
-\f1\b0 \cb1 \uc0\u8232 \cb3 You agree that any claim, action or proceeding arising out of these Terms, or your Use of the App, shall be governed by and construed in accordance with the laws of the United States and the State of New Jersey, without regard to principles of conflict of laws. Any claim, action or proceeding related to these Terms will be resolved exclusively in the state or federal courts located in the State of New Jersey and you consent to the jurisdiction of those courts.\cb1 \uc0\u8232 \
-\pard\pardeftab720\sa256\partightenfactor0
-
-\f0\b \cf4 \cb3 Last Updated:
-\f1\b0 \'a0August 25, 2021\
-}
+	1.	General Information This App is developed and maintained by MovieReco. Use of this App is governed by the MovieReco Privacy Policy (the "Privacy Policy") (a copy of which is available, at http://www.ets.org/legal/privacy/) and these Terms of Use (collectively, these "Terms"). These Terms apply to: (a) any person who Uses (as defined below) this App (referred to as "you", "your", and "user"); and (b) to the maximum extent possible under applicable law, any information, content, metadata, data, and material, including any voice recordings, submitted by you or arising from or related to your Use (as defined below) of the App ("Usage Data").
+  
+	2.	Accepting the Terms By downloading, accessing, viewing, installing, running or using (collectively, "Using" or "Use") the App, you represent and warrant that you have read and understand these Terms. You also represent and warrant that you are age 18 or over and either (a) you are using the App yourself, or (b) you are using this App with a child under 18 in order to help the child learn, and you have the full power, capacity, and authority to accept these Terms and authorize the child's use of the App. You further accept and agree to comply with the terms of use of any third-party software or application licensor accessible through this App. You may not Use the App if you (or your parent or teacher, if you are under age 18) do not agree to be bound by these Terms or if you are otherwise prohibited from Using the App under any applicable laws, statutes, ordinances, or regulations. You must have access to the internet, certain necessary software, and, if applicable, compatible mobile devices in order to Use the App. Fees and charges may apply to your use of the internet and, if applicable, the mobile services. You agree that you are solely responsible for any such fees. 
+  
+	3.	Usage Data You acknowledge and agree that MovieReco will collect and use the Usage Data as needed to provide the App to you and for other purposes as described in these Terms. If you register to use the App, you may provide Personal Information (as defined in the Privacy Policy) to MovieReco (or to MovieReco’s third-party service providers). MovieReco will handle all Personal Information obtained during registration in accordance with the Privacy Policy. MovieReco does not require Users to provide any Personal Information when they use the App. When you use the App, MovieReco collects Usage Data that does not contain any individual identifiers, including information about your engagement with the App, voice recordings of passages read, and survey data (collectively, "Research Data.") MovieReco will not (and will not permit any third party to) associate your identifiers or other Personal Information with the Research Data. MovieReco may modify Usage Data to remove any Personal Information or other information that may be used to identify you or any other individual in order to create additional Research Data. You authorize MovieReco to use the Research Data for any lawful purpose, and you disclaim all rights or interests in the Research Data by or through these Terms. You acknowledge that MovieReco may use, modify, incorporate or otherwise exploit your Research Data in any media whatsoever, now known or later invented, throughout the world for the purposes of conducting research or analyses, including designing, developing, implementing, modifying and/or improving new, current, or future features, products, and services of MovieReco. You hereby disclaim any right to any compensation from MovieReco in connection with MovieReco’s exercise of its rights in and to the Research Data. 
+  
+	4.   License Grant Subject to these Terms, MovieReco grants to you a worldwide, nonexclusive, non-transferable, non-sublicensable license to Use the App, including any all patches, updates, or upgrades or improvements provided by MovieReco from time to time, solely for your (and your students' or child's) personal and noncommercial use. 
+  
+	5.	Restriction on Use You may not modify the App in any way or remove any copyright, trademark and other proprietary notices therefrom. Except as provided by the license set forth in Section 5, you may not otherwise copy, store (either in hard copy or in electronic format), transmit, transfer, perform, broadcast, publish, reproduce, create a derivative work from, display, distribute, sell, offer for sale, license, rent, lease, or otherwise exploit the App in any manner inconsistent with the rights of MovieReco, including, but not limited to, the Use of the App for any purpose, without the express written permission of MovieReco. You may not Use this App in violation of any applicable terms of use related to third-party software or applications accessible through this App. 
+  
+	6.	Ownership Any Usage Data, the App and any content included in the App or results produced by Use of the App, including, but not limited to, voice recordings, text, names, data, graphics, logos, icons, images, code, methods, techniques, models and software, and all copies, modifications, enhancements and derivative works thereof, are the sole and exclusive property of MovieReco or its licensors/providers and are protected by the patent, copyright, trademark and trade secret laws of the United States. 
+  
+	7.	Termination MovieReco may terminate these Terms and/or terminate, change, suspend or discontinue any aspect of the App, including the availability of any features or functionalities of the App at any time, for any reason, without liability or notice to you. You may terminate your Use of the App by uninstalling the App. Sections 1 (General Information), 2 (Accepting the Terms), 3 (Usage Data) , 6 (Ownership), 8 (No Warranties or Liability), 9 (Export and Import) and 10 (Governing Law and Jurisdiction) will survive termination of these Terms. 
+  
+	8.	No Warranties or Liability THE APP AND ITS CONTENT, FEATURES AND FUNCTIONALITY ARE PROVIDED TO YOU ON AN "AS IS," "AS AVAILABLE" BASIS. MOVIERECO, ITS LICENSORS/PROVIDERS AND THEIR RESPECTIVE AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS MAKE NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO THE APP, ITS CONTENT, FEATURES AND FUNCTIONALITY AND ASSUME NO RESPONSIBILITY FOR THE CONSEQUENCES OF ANY ERRORS OR OMISSIONS IN CONNECTION WITH YOUR USE OF THE APP. MOVIERECO, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, REPRESENTATIONS AND WARRANTIES REGARDING ACCURACY, TIMELINESS, COMPLETENESS, NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR ANY IMPLIED WARRANTY ARISING FROM COURSE OF PERFORMANCE, COURSE OF DEALING, OR USAGE OF TRADE. WITHOUT LIMITATION TO THE FOREGOING, MOVIERECO DOES NOT WARRANT THAT THE OPERATION OF THE APP WILL BE ERROR FREE OR UNINTERRUPTED OR BE PROVIDED OR AVAILABLE WITHOUT INTERRUPTION, OR THAT DEFECTS OR ERRORS CAN OR WILL BE CORRECTED OR THE APPROPRIATENESS OF THE APP FOR ANY PARTICULAR SYSTEM OR ACCURACY OF THE APP'S CONTENT OR RESULTS OR THAT THE USE OF THE APP WILL NOT CAUSE DAMAGE TO YOUR MOBILE PHONE AND/OR COMPUTER (AS APPLICABLE), INTERFERE WITH THE USE OF YOUR MOBILE PHONE AND/OR COMPUTER (AS APPLICABLE), OR CAUSE LOSS OF USAGE DATA OR OTHER DATA FROM YOUR MOBILE PHONE AND/OR COMPUTER (AS APPLICABLE). IN NO EVENT SHALL MOVIERECO BE LIABLE TO YOU FOR ANY CLAIM, INCLUDING, BUT NOT LIMITED TO, ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES OR LOSS OF ANY KIND INCLUDING LOSS OF PROFITS, LOSS OF CONTRACTS, BUSINESS INTERRUPTIONS, OR LOSS OF OR CORRUPTION OF DATA, HOWEVER CAUSED AND WHETHER ARISING UNDER CONTRACT OR TORT OR OTHERWISE, INCLUDING NEGLIGENCE, AND ANY LOSS OR DAMAGE RELATED TO ANY THIRD-PARTY SOFTWARE, THAT ARISES OUT OF OR RELATES TO YOUR USE OF THIS APP, ITS CONTENT, FEATURES AND FUNCTIONALITY. 
+  
+	9.	Export and Import The App is provided solely for lawful purposes and use. You are solely responsible for, and agree to comply with, all applicable laws, statutes, ordinances, regulations and other governmental authority, however designated, with respect to the Use of the App, including without limitation United States government laws, regulations, orders or other restrictions regarding export from the United States of software, technical data and information or derivatives of such software, or technical data and information. 
+  
+	10.	Governing Law and Jurisdiction You agree that any claim, action or proceeding arising out of these Terms, or your Use of the App, shall be governed by and construed in accordance with the laws of the United States and the State of New Jersey, without regard to principles of conflict of laws. Any claim, action or proceeding related to these Terms will be resolved exclusively in the state or federal courts located in the State of New Jersey and you consent to the jurisdiction of those courts. 
+  
+Last Updated: August 27, 2021
