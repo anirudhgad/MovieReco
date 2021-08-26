@@ -5,7 +5,7 @@ If you downloaded the App from the Alexa Skills Store: These Terms incorporate b
 
 ## General Information 
 
-This App is developed and maintained by MovieReco. Use of this App is governed by the MovieReco Privacy Policy (the "Privacy Policy") (a copy of which is 	available, at http://www.ets.org/legal/privacy/) and these Terms of Use (collectively, these "Terms"). These Terms apply to: (a) any person who Uses (as 	defined below) this App (referred to as "you", "your", and "user"); and (b) to the maximum extent possible under applicable law, any information, content, 	metadata, data, and material, including any voice recordings, submitted by you or arising from or related to your Use (as defined below) of the App ("Usage 	Data").
+This App is developed and maintained by MovieReco. Use of this App is governed by the MovieReco Privacy Policy (the "Privacy Policy") (a copy of which is 	available, at https://github.com/anirudhgad/MovieReco/blob/master/privacypolicy.md) and these Terms of Use (collectively, these "Terms"). These Terms apply to: (a) any person who Uses (as 	defined below) this App (referred to as "you", "your", and "user"); and (b) to the maximum extent possible under applicable law, any information, content, 	metadata, data, and material, including any voice recordings, submitted by you or arising from or related to your Use (as defined below) of the App ("Usage 	Data").
   
 ## Accepting the Terms
 
