@@ -9,11 +9,15 @@ Interaction with the front end is done through Alexa Skills Kit which transmits 
 
 A typical conversation with the Alexa interface might look like this:
 
-> Alexa
-> Would you like to narrow your recommendation down by genre, director, or actor?
-> Genre
-> What genre/genres would you like?
-> Recommend a horror and thriller movie with a rating of 8 and above
+User: Alexa, give me a movie recommendation
+
+Alexa: Would you like to narrow your recommendation down by genre, director, or actor?
+
+User: Genre
+
+Alexa: What genre/genres would you like?
+
+User: Recommend a horror and thriller movie with a rating of 8 and above
 
 ## Dataset
 The final dataset is a combination of the [iMDB] (https://datasets.imdbws.com/) and [Netflix dataset] (https://www.kaggle.com/netflix-inc/netflix-prize-data?select=README)
